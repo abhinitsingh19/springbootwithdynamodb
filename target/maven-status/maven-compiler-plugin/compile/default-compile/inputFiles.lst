@@ -1,0 +1,5 @@
+D:\Successmaterials\springBootAWSProjects\springboot-dynamodb-example-master\src\main\java\com\javatechiue\aws\entity\Address.java
+D:\Successmaterials\springBootAWSProjects\springboot-dynamodb-example-master\src\main\java\com\javatechiue\aws\entity\Person.java
+D:\Successmaterials\springBootAWSProjects\springboot-dynamodb-example-master\src\main\java\com\javatechiue\aws\repository\PersonRepository.java
+D:\Successmaterials\springBootAWSProjects\springboot-dynamodb-example-master\src\main\java\com\javatechiue\aws\SpringbootDynamodbExampleApplication.java
+D:\Successmaterials\springBootAWSProjects\springboot-dynamodb-example-master\src\main\java\com\javatechiue\aws\config\DynamoDBConfig.java
